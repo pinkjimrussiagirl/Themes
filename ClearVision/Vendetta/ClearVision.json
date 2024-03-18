@@ -443,20 +443,5 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1218876640919031818/1219202902938095617/IMG_7485_Original.jpg?ex=660a722f&is=65f7fd2f&hm=https://cdn.discordapp.com/attachments/1218876640919031818/1219202902938095617/IMG_7485_Original.jpg"
+        "url": "https://cdn.discordapp.com/attachments/1218876640919031818/1219202902938095617/IMG_7485_Original.jpg?ex=660a722f&is=65f7fd2f&hm=d7d853656829a8fcd071cfc3765b0ffb721e7b1e6d8951287fa758bba2aa9263&"
     },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#102b47",
-            "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
-            "ic_soundboard_muted": "#102b47",
-            "ic_video": "#102b47",
-            "ic_video_disabled": "#102b47"
-        },
-        "iconpack":"rosiecord-plumpy"
-    },
-    "spec": 2
-            }
